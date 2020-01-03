@@ -1,4 +1,4 @@
 module.exports = {
-    Book: require("./comp")
+    Book: require("./book")
   };
   A
